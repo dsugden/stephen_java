@@ -2,30 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7daee145-e7f0-4625-83b5-a65813839009" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stephen/StringCata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/stephen/StringCataTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dave_codelab/config/pipelines.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../dave_codelab/config/pipelines.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dave_codelab/shipit.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../dave_codelab/shipit.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dave_codelab/src/main/kotlin/com/shopify/dave_codelab/Launcher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../dave_codelab/src/main/kotlin/com/shopify/dave_codelab/Launcher.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dave_codelab/src/test/kotlin/com/shopify/dave_codelab/pipelines/KafkaToDiskTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1eVEYocP6LSBmev8hB3FTtmrcqP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="RunManager">
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.StringCataTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stephen.Main" />
       <module name="stephen_java.main" />
@@ -46,6 +63,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringCataTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.stephen.StringCataTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -64,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.StringCataTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
