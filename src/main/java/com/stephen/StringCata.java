@@ -1,5 +1,9 @@
 package com.stephen;
 
+
+/**
+ * We gonna use this to do some shit.
+ */
 public class StringCata {
 
     private String input = null;

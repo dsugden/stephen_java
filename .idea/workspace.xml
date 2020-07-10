@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7daee145-e7f0-4625-83b5-a65813839009" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stephen/StringCata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/stephen/StringCataTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dave_codelab/config/pipelines.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../dave_codelab/config/pipelines.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dave_codelab/shipit.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../dave_codelab/shipit.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dave_codelab/src/main/kotlin/com/shopify/dave_codelab/Launcher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../dave_codelab/src/main/kotlin/com/shopify/dave_codelab/Launcher.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dave_codelab/src/test/kotlin/com/shopify/dave_codelab/pipelines/KafkaToDiskTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stephen/StringCata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stephen/StringCata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stephen/StringCataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stephen/StringCataTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,5 +116,23 @@
       <updated>1594398409449</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1822" height="271" key="GridCell.Tab.0.bottom" timestamp="1594400417436">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="271" key="GridCell.Tab.0.bottom/-1680.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1594400417436" />
+    <state width="1822" height="271" key="GridCell.Tab.0.center" timestamp="1594400417435">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="271" key="GridCell.Tab.0.center/-1680.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1594400417435" />
+    <state width="1822" height="271" key="GridCell.Tab.0.left" timestamp="1594400417434">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="271" key="GridCell.Tab.0.left/-1680.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1594400417434" />
+    <state width="1822" height="271" key="GridCell.Tab.0.right" timestamp="1594400417436">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1822" height="271" key="GridCell.Tab.0.right/-1680.23.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1594400417436" />
   </component>
 </project>
