@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/../dave_codelab/shipit.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../dave_codelab/shipit.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dave_codelab/src/main/kotlin/com/shopify/dave_codelab/Launcher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../dave_codelab/src/main/kotlin/com/shopify/dave_codelab/Launcher.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dave_codelab/src/test/kotlin/com/shopify/dave_codelab/pipelines/KafkaToDiskTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/stephen/StringCata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stephen/StringCata.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
